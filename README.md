@@ -46,3 +46,9 @@ The analysis process involves the following steps:
 
 5. Deploying the Notebook as a Web Application: The notebook is deployed as a web application using the Voilà library. Screenshots or a screen recording demonstrating the appearance of the web application when deployed locally should be included in the repository.
 
+### Contributors
+
+Alexander Likhachev
+
+### License
+MIT
