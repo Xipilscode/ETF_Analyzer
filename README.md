@@ -25,6 +25,7 @@ This application incorporates a variety of technologies and libraries:
 * Voilà: A Python library that turns Jupyter notebooks into standalone web applications. We use Voilà to deploy our Jupyter notebook as an interactive web application.
 
 ### Installation
+
 In order to get this project up and running, you need to have Python installed, preferably Python 3.8 or later. SQL and SQLite should also be installed to manage the database functionalities. Furthermore, the following Python libraries are needed: Pandas, hvPlot, and Voilà.
 
 You can install these libraries by using pip:
@@ -44,7 +45,12 @@ The analysis process involves the following steps:
 
 4. Calculating Annualized and Cumulative Returns: The average daily returns in the etf_portfolio_returns DataFrame are used to calculate both the annualized and cumulative returns of the portfolio.
 
-5. Deploying the Notebook as a Web Application: The notebook is deployed as a web application using the Voilà library. Screenshots or a screen recording demonstrating the appearance of the web application when deployed locally should be included in the repository.
+5. Deploying the Notebook as a Web Application: The notebook is deployed as a web application using the Voilà library. Screen recording demonstrating the appearance of the web application when deployed locally is included in the repository.
+
+#### Deploying the Notebook: 
+
+![Deploying the Notebook](deploying_notebook.gif)
+
 
 ### Contributors
 
